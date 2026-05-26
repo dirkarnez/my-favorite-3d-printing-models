@@ -8,3 +8,6 @@ my-favorite-3d-printing-models
 
 ### Threads
 - https://github.com/rcolyer/threads-scad/blob/master/threads_demo.stl
+
+### Case
+- [Xteink X4 Case by Mic Kuo | Download free STL model | Printables.com](https://www.printables.com/model/1470194-xteink-x4-case)
