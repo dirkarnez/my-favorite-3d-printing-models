@@ -17,6 +17,9 @@ my-favorite-3d-printing-models
 - [Lord of the Rings Clothes Button by Kenty94 | Download free STL model | Printables.com](https://www.printables.com/model/162732-lord-of-the-rings-clothes-button)
 - [Lord of the Ring - The One Ring dice bowl by Skar84 from Thingiverse by Fritzinator | Download free STL model | Printables.com](https://www.printables.com/model/233839-lord-of-the-ring-the-one-ring-dice-bowl-by-skar84-)
 - [Lord of the rings bookmark by John Wayne | Download free STL model | Printables.com](https://www.printables.com/model/763640-lord-of-the-rings-bookmark)
+
+### Awesomeness
+- [step.parts | 16,000+ open source STEP parts for your next CAD project](https://www.step.parts/)
 - [Sauron＇s Ring - Lord Of The Rings by Dragon | Download free STL model | Printables.com](https://www.printables.com/model/136900-saurons-ring-lord-of-the-rings)
 - [The Lord of the Rings - The One Ring by Papp | Download free STL model | Printables.com](https://www.printables.com/model/136541-the-lord-of-the-rings-the-one-ring)
   - [TheOneRing.stl](./TheOneRing.stl)
